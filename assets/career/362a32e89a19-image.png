@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body, #mapDiv {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="mapDiv"></div>
+      
+    <script nonce="aESWXxVOlMIknHNpfiiI7Q">
+      function onEmbedLoad() {
+        initEmbed([null,null,null,null,null,[[[2,"spotlit",null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,11,null,[null,null,null,null,null,null,null,null,null,null,null,null,null,1]]]],null,null,[[null,null,null,null,null,null,null,null,null,null,null,null,null,[[["3847019658394292173","17510978636715050157"],"/g/11bz98hfp5",null,[373137501,1275518778],null,null,null,1,null,null,null,null,null,null,"gcid:geocoded_address"],0,0,null,null,0,null,0,0]]]],null,["en_US","KR"],[null,null,null,"/maps/api/js/ApplicationService.GetEntityDetails","/maps/embed/upgrade204",null,"/maps/embed/record204"],null,null,null,null,null,null,null,null,"oczaauqzMsSQvr0Pi6GYoAE",null,null,null,[[[3173.214252024894,127.5518778,37.3137501],[0,0,0],null,13.10000038146973],null,0,[["0x35635bff36894fcd:0xf3037e4afedac4ad","275-22 Sin-geun-ri, Heungcheon-myeon, Yeoju-si, Gyeonggi-do",[37.3137501,127.5518778]],"275-22 Sin-geun-ri, Heungcheon-myeon",["Yeoju-si, Gyeonggi-do"],null,null,null,null,null,null,null,null,null,null,"275-22 Sin-geun-ri, Heungcheon-myeon, Yeoju-si, Gyeonggi-do",null,null,null,null,null,null,null,null,null,null,1,null,null,"ChIJzU-JNv9bYzURrcTa_kp-A_M",null,null,"2ahUKEwiqiMHnkc-XAxVEiK8BHYsQBhQQ8BcoAHoECAAQAg"]],null,null,null,0,null,null,null,null,null,null,[1]]);
+      }
+      function onApiLoad() {
+        var embed = document.createElement('script');
+        embed.src = "https://maps.gstatic.com/maps-api-v3/embed/js/66/11a/init_embed.js";
+        document.body.appendChild(embed);
+      }
+    </script>
+    <link rel="preload" href="https://maps.gstatic.com/maps-api-v3/embed/js/66/11a/init_embed.js" nonce="aESWXxVOlMIknHNpfiiI7Q" as="script" />
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&amp;paint_origin=&amp;libraries=geometry,search&amp;v=weekly&amp;loading=async&amp;language=en_US&amp;region=KR&amp;callback=onApiLoad" nonce="aESWXxVOlMIknHNpfiiI7Q" async defer></script>
+  </body>
+</html>

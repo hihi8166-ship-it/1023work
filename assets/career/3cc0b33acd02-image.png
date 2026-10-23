@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body, #mapDiv {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="mapDiv"></div>
+      
+    <script nonce="V2KKU8Usn3cQeVg6Vu-QAw">
+      function onEmbedLoad() {
+        initEmbed([null,null,null,null,null,[[[2,"spotlit",null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,11,null,[null,null,null,null,null,null,null,null,null,null,null,null,null,1]]]],null,null,[[null,null,null,null,null,null,null,null,null,null,null,null,null,[[["3854136342172165089","8033671210862648265"],"/g/11bzhjnx5b",null,[375444627,1270605987],null,null,null,1,null,null,null,null,null,null,"gcid:geocoded_address"],0,0,null,null,0,null,0,0]]]],null,["en_US","KR"],[null,null,null,"/maps/api/js/ApplicationService.GetEntityDetails","/maps/embed/upgrade204",null,"/maps/embed/record204"],null,null,null,null,null,null,null,null,"oszaaoCkA961vr0P7ena8AY",null,null,null,[[[3163.449810291315,127.0605987,37.5444627],[0,0,0],null,13.10000038146973],null,0,[["0x357ca495471863e1:0x6f7d5566edc01bc9","277-47 Seongsu-dong 2(i)-ga, Seongdong-gu, Seoul",[37.5444627,127.0605987]],"277-47 Seongsu-dong 2(i)-ga",["Seongdong-gu, Seoul"],null,null,null,null,null,null,null,null,null,null,"277-47 Seongsu-dong 2(i)-ga, Seongdong-gu, Seoul",null,null,null,null,null,null,null,null,null,null,1,null,null,"ChIJ4WMYR5WkfDURyRvA7WZVfW8",null,null,"2ahUKEwiA_c7nkc-XAxXemq8BHe20Fm4Q8BcoAHoECAAQAg",null,null,null,null,null,null,null,["2ahUKEwiA_c7nkc-XAxXemq8BHe20Fm4QqtMBKAZ6BAgAEAk",["8Q99G3V6+Q6"],["G3V6+Q6 Seoul"],2]]],null,null,null,0,null,null,null,null,null,null,[1]]);
+      }
+      function onApiLoad() {
+        var embed = document.createElement('script');
+        embed.src = "https://maps.gstatic.com/maps-api-v3/embed/js/66/11a/init_embed.js";
+        document.body.appendChild(embed);
+      }
+    </script>
+    <link rel="preload" href="https://maps.gstatic.com/maps-api-v3/embed/js/66/11a/init_embed.js" nonce="V2KKU8Usn3cQeVg6Vu-QAw" as="script" />
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&amp;paint_origin=&amp;libraries=geometry,search&amp;v=weekly&amp;loading=async&amp;language=en_US&amp;region=KR&amp;callback=onApiLoad" nonce="V2KKU8Usn3cQeVg6Vu-QAw" async defer></script>
+  </body>
+</html>

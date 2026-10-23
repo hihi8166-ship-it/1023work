@@ -1,0 +1,241 @@
+﻿<section class="text-center h-[1000px] max-1600:h-[1100px] max-1280:h-[800px] max-1024:h-[650px] flex flex-col items-center justify-center gap-[48px] px-[68px] max-1024:px-[20px] max-1024:gap-[24px]">
+<div>
+<div class="false">
+<h1 class="text-[#000] text-[64px] leading-[80px] font-[800] max-1280:text-[55px] max-1280:leading-[68px] max-1024:text-[32px] max-1024:leading-[42px] max-1024:font-[700]" style="opacity:0;transform:translateY(40px)">온라인에서 오프라인으로.</h1>
+<h1 class="text-[#000] text-[64px] leading-[80px] font-[800] max-1280:text-[55px] max-1280:leading-[68px] max-1024:text-[32px] max-1024:leading-[42px] max-1024:font-[700]" style="opacity:0;transform:translateY(40px)">대한민국에서 전 세계로.</h1>
+<h1 class="text-[#000] text-[64px] leading-[80px] font-[800] max-1280:text-[55px] max-1280:leading-[68px] max-1024:text-[32px] max-1024:leading-[42px] max-1024:font-[700] max-1024:text-[#999]" style="opacity:0;transform:translateY(40px)">패션&amp;뷰티 산업의 새로운 미래를 만듭니다.</h1>
+</div>
+</div>
+<button class="bg-[#000] flex items-center justify-between rounded-full py-[18px] px-[24px] gap-[24px] min-w-[186px] hover:bg-[#505050] transition-colors duration-300 h-[56px] max-1024:min-w-[165px] max-1024:px-[24px] max-1024:py-[10px] max-1024:h-[56px]" style="opacity:0;transform:translateY(40px)">
+<p class="text-[#fff] text-[18px] leading-[24px] font-[600] max-1024:text-[16px]">Company</p>
+<img alt="icon_arrow_down" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" class="" style="color:transparent" src="/images/icons/icon_arrowR.svg"/>
+</button>
+</section>
+<section style="height:800svh">
+<div class="sticky top-0 left-0 w-full h-[100svh] bg-black overflow-hidden">
+<div class="absolute inset-0 bg-black opacity-70 -z-10">
+</div>
+<div class="year-img-0 absolute inset-0 w-full h-full overflow-hidden" style="opacity:1;transform:scale(1.05)">
+<img alt="yearBanner-0" decoding="async" data-nimg="fill" class="w-full h-full object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" src="/images/home/yearBanners/yearBanner1.jpg"/>
+<div class="absolute inset-0 bg-black opacity-70 pointer-events-none">
+</div>
+</div>
+<div class="year-img-1 absolute inset-0 w-full h-full overflow-hidden" style="opacity:0;transform:scale(1.05)">
+<img alt="yearBanner-1" decoding="async" data-nimg="fill" class="w-full h-full object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" src="/images/home/yearBanners/yearBanner2.jpg"/>
+<div class="absolute inset-0 bg-black opacity-70 pointer-events-none">
+</div>
+</div>
+<div class="year-img-2 absolute inset-0 w-full h-full overflow-hidden" style="opacity:0;transform:scale(1.05)">
+<img alt="yearBanner-2" loading="lazy" decoding="async" data-nimg="fill" class="w-full h-full object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" src="/images/home/yearBanners/yearBanner3.jpg"/>
+<div class="absolute inset-0 bg-black opacity-70 pointer-events-none">
+</div>
+</div>
+<div class="year-img-3 absolute inset-0 w-full h-full overflow-hidden" style="opacity:0;transform:scale(1.05)">
+<img alt="yearBanner-3" loading="lazy" decoding="async" data-nimg="fill" class="w-full h-full object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" src="/images/home/yearBanners/yearBanner4.jpg"/>
+<div class="absolute inset-0 bg-black opacity-70 pointer-events-none">
+</div>
+</div>
+<div class="year-img-4 absolute inset-0 w-full h-full overflow-hidden" style="opacity:0;transform:scale(1.05)">
+<img alt="yearBanner-4" loading="lazy" decoding="async" data-nimg="fill" class="w-full h-full object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" src="/images/home/yearBanners/yearBanner5.jpg"/>
+<div class="absolute inset-0 bg-black opacity-70 pointer-events-none">
+</div>
+</div>
+<div class="year-img-5 absolute inset-0 w-full h-full overflow-hidden" style="opacity:0;transform:scale(1.05)">
+<img alt="yearBanner-5" loading="lazy" decoding="async" data-nimg="fill" class="w-full h-full object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" src="/images/home/yearBanners/yearBanner6.jpg"/>
+<div class="absolute inset-0 bg-black opacity-70 pointer-events-none">
+</div>
+</div>
+<div class="year-img-6 absolute inset-0 w-full h-full overflow-hidden" style="opacity:0;transform:scale(1.05)">
+<img alt="yearBanner-6" loading="lazy" decoding="async" data-nimg="fill" class="w-full h-full object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" src="/images/home/yearBanners/yearBanner7.jpg"/>
+<div class="absolute inset-0 bg-black opacity-70 pointer-events-none">
+</div>
+</div>
+<div class="year-img-7 absolute inset-0 w-full h-full overflow-hidden" style="opacity:0;transform:scale(1.05)">
+<img alt="yearBanner-7" loading="lazy" decoding="async" data-nimg="fill" class="w-full h-full object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" src="/images/home/yearBanners/yearBanner8.jpg"/>
+<div class="absolute inset-0 bg-black opacity-70 pointer-events-none">
+</div>
+</div>
+<div class="absolute top-0 left-0 w-full h-full flex items-center justify-center">
+<div class="flex gap-[24px] w-full justify-center items-center px-[68px] max-1600:px-[55px] max-1600:justify-between max-1600:gap-[0px] max-1600:w-full max-1280:px-[44px] max-1024:px-[20px]">
+<div class="overflow-hidden h-[512px] w-[348px] flex items-center justify-center max-1024:h-[30vw] max-1600:w-auto max-1600:flex-1">
+<p class="year-digit text-[#fff] text-[512px] leading-[512px] max-1600:text-[418px] max-1600:leading-[418px] max-1280:text-[328px] max-1280:leading-[328px] font-[500] max-1024:text-[30vw] max-1024:leading-[30vw]">2</p>
+</div>
+<div class="overflow-hidden h-[512px] w-[348px] flex items-center justify-center max-1024:h-[30vw] max-1600:w-auto max-1600:flex-1">
+<p class="year-digit text-[#fff] text-[512px] leading-[512px] font-[500] max-1600:text-[418px] max-1600:leading-[418px] max-1280:text-[328px] max-1280:leading-[328px] max-1024:text-[30vw] max-1024:leading-[30vw]">0</p>
+</div>
+<div class="overflow-hidden h-[512px] w-[348px] relative max-1024:h-[30vw] max-1600:w-auto max-1600:flex-1">
+<div class="d3-list flex flex-col">
+<p class="d3-digit year-digit text-[#fff] text-[512px] leading-[512px] font-[500] h-[512px] flex items-center justify-center max-1600:text-[418px] max-1600:leading-[418px] max-1280:text-[328px] max-1280:leading-[328px] max-1024:text-[30vw] max-1024:leading-[30vw] max-1024:h-[30vw]">0</p>
+<p class="d3-digit year-digit text-[#fff] text-[512px] leading-[512px] font-[500] h-[512px] flex items-center justify-center max-1600:text-[418px] max-1600:leading-[418px] max-1280:text-[328px] max-1280:leading-[328px] max-1024:text-[30vw] max-1024:leading-[30vw] max-1024:h-[30vw]">1</p>
+<p class="d3-digit year-digit text-[#fff] text-[512px] leading-[512px] font-[500] h-[512px] flex items-center justify-center max-1600:text-[418px] max-1600:leading-[418px] max-1280:text-[328px] max-1280:leading-[328px] max-1024:text-[30vw] max-1024:leading-[30vw] max-1024:h-[30vw]">2</p>
+</div>
+</div>
+<div class="overflow-hidden h-[512px] w-[348px] relative max-1024:h-[30vw] max-1600:w-auto max-1600:flex-1">
+<div class="d4-list flex flex-col">
+<p class="d4-digit year-digit text-[#fff] text-[512px] leading-[512px] max-1600:text-[418px] max-1600:leading-[418px] max-1280:text-[328px] max-1280:leading-[328px] font-[500] h-[512px] flex items-center justify-center max-1024:text-[30vw] max-1024:leading-[30vw] max-1024:h-[30vw]">1</p>
+<p class="d4-digit year-digit text-[#fff] text-[512px] leading-[512px] max-1600:text-[418px] max-1600:leading-[418px] max-1280:text-[328px] max-1280:leading-[328px] font-[500] h-[512px] flex items-center justify-center max-1024:text-[30vw] max-1024:leading-[30vw] max-1024:h-[30vw]">5</p>
+<p class="d4-digit year-digit text-[#fff] text-[512px] leading-[512px] max-1600:text-[418px] max-1600:leading-[418px] max-1280:text-[328px] max-1280:leading-[328px] font-[500] h-[512px] flex items-center justify-center max-1024:text-[30vw] max-1024:leading-[30vw] max-1024:h-[30vw]">9</p>
+<p class="d4-digit year-digit text-[#fff] text-[512px] leading-[512px] max-1600:text-[418px] max-1600:leading-[418px] max-1280:text-[328px] max-1280:leading-[328px] font-[500] h-[512px] flex items-center justify-center max-1024:text-[30vw] max-1024:leading-[30vw] max-1024:h-[30vw]">7</p>
+<p class="d4-digit year-digit text-[#fff] text-[512px] leading-[512px] max-1600:text-[418px] max-1600:leading-[418px] max-1280:text-[328px] max-1280:leading-[328px] font-[500] h-[512px] flex items-center justify-center max-1024:text-[30vw] max-1024:leading-[30vw] max-1024:h-[30vw]">0</p>
+<p class="d4-digit year-digit text-[#fff] text-[512px] leading-[512px] max-1600:text-[418px] max-1600:leading-[418px] max-1280:text-[328px] max-1280:leading-[328px] font-[500] h-[512px] flex items-center justify-center max-1024:text-[30vw] max-1024:leading-[30vw] max-1024:h-[30vw]">1</p>
+<p class="d4-digit year-digit text-[#fff] text-[512px] leading-[512px] max-1600:text-[418px] max-1600:leading-[418px] max-1280:text-[328px] max-1280:leading-[328px] font-[500] h-[512px] flex items-center justify-center max-1024:text-[30vw] max-1024:leading-[30vw] max-1024:h-[30vw]">2</p>
+<p class="d4-digit year-digit text-[#fff] text-[512px] leading-[512px] max-1600:text-[418px] max-1600:leading-[418px] max-1280:text-[328px] max-1280:leading-[328px] font-[500] h-[512px] flex items-center justify-center max-1024:text-[30vw] max-1024:leading-[30vw] max-1024:h-[30vw]">5</p>
+</div>
+</div>
+</div>
+<div class="absolute bottom-[128px] max-1600:bottom-[85px] max-1280:bottom-[67px] left-0 w-full flex justify-center overflow-hidden h-[36px] max-1024:h-[4vw] max-1024:top-1/2 max-1024:translate-y-[25vw] max-1024:h-[5.5vw]">
+<p class="year-desc-0 text-[#fff] text-[32px] leading-[36px] font-[700] absolute max-1024:text-[4vw] max-1024:leading-[5vw] opacity-0" style="opacity:1">온라인 커뮤니티 오픈</p>
+<p class="year-desc-1 text-[#fff] text-[32px] leading-[36px] font-[700] absolute max-1024:text-[4vw] max-1024:leading-[5vw] opacity-0" style="opacity:0">웹 매거진 발행</p>
+<p class="year-desc-2 text-[#fff] text-[32px] leading-[36px] font-[700] absolute max-1024:text-[4vw] max-1024:leading-[5vw] opacity-0" style="opacity:0">온라인 패션 스토어 오픈</p>
+<p class="year-desc-3 text-[#fff] text-[32px] leading-[36px] font-[700] absolute max-1024:text-[4vw] max-1024:leading-[5vw] opacity-0" style="opacity:0">자체 브랜드 론칭</p>
+<p class="year-desc-4 text-[#fff] text-[32px] leading-[36px] font-[700] absolute max-1024:text-[4vw] max-1024:leading-[5vw] opacity-0" style="opacity:0">서비스 카테고리 확장</p>
+<p class="year-desc-5 text-[#fff] text-[32px] leading-[36px] font-[700] absolute max-1024:text-[4vw] max-1024:leading-[5vw] opacity-0" style="opacity:0">오프라인 시장 진출</p>
+<p class="year-desc-6 text-[#fff] text-[32px] leading-[36px] font-[700] absolute max-1024:text-[4vw] max-1024:leading-[5vw] opacity-0" style="opacity:0">글로벌 온라인 스토어 오픈</p>
+<p class="year-desc-7 text-[#fff] text-[32px] leading-[36px] font-[700] absolute max-1024:text-[4vw] max-1024:leading-[5vw] opacity-0" style="opacity:0">글로벌 오프라인 시장 진출</p>
+</div>
+</div>
+</div>
+</section>
+<section class="relative w-full bg-[#fff]" style="height:500vh">
+<div class="sticky top-0 left-0 w-full h-screen overflow-hidden">
+<div class="absolute inset-0 flex flex-col items-center justify-center z-10 pointer-events-none px-[20px]">
+<div class="text-center flex flex-col gap-[48px] max-1024:gap-[24px] pointer-events-auto">
+<div class="flex flex-col">
+<h1 class="apple-text-line text-[#000] text-[64px] leading-[80px] font-[800] max-1280:text-[55px] max-1280:leading-[68px] max-1024:font-[700] max-1024:text-[32px] max-1024:leading-[42px]">누구나 자신만의 스타일을<span class="max-1024:hidden"> <!-- -->찾을 수 있도록</span>
+</h1>
+<h1 class="apple-text-line text-[#000] font-[700] max-1024:text-[32px] max-1024:leading-[42px] hidden max-1024:block">찾을 수 있도록</h1>
+<h1 class="apple-text-line text-[#000] text-[64px] leading-[80px] font-[800] max-1280:text-[55px] max-1280:leading-[68px] max-1024:text-[32px] max-1024:leading-[42px] max-1024:font-[700] max-1024:text-[#000] max-1600:hidden">지금껏 없던 새로운 패션&amp;뷰티 경험을 선사합니다.</h1>
+<h1 class="apple-text-line text-[#000] text-[64px] leading-[80px] font-[800] max-1280:text-[55px] max-1280:leading-[68px] max-1024:text-[32px] max-1024:leading-[42px] max-1024:font-[700] max-1024:text-[#000] hidden max-1600:block">지금껏 없던 새로운</h1>
+<h1 class="apple-text-line text-[#000] text-[64px] leading-[80px] font-[800] max-1280:text-[55px] max-1280:leading-[68px] max-1024:text-[32px] max-1024:leading-[42px] max-1024:font-[700] max-1024:text-[#000] max-1024:whitespace-nowrap hidden max-1600:block">패션&amp;뷰티 경험을 선사합니다.</h1>
+</div>
+<div class="apple-text-line flex justify-center mt-4">
+<a href="/business">
+<button class="bg-[#000] flex items-center justify-between rounded-full py-[18px] px-[24px] gap-[24px] min-w-[186px] h-[56px] max-1024:min-w-[161px] max-1024:px-[24px] max-1024:py-[10px] max-1024:h-[56px] cursor-pointer hover:bg-[#505050] transition-colors">
+<p class="text-[#fff] text-[18px] leading-[24px] font-[600] max-1024:text-[16px]">Business</p>
+<img alt="icon" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" style="color:transparent" src="/images/icons/icon_arrowR.svg"/>
+</button>
+</a>
+</div>
+</div>
+</div>
+<div class="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-[1464px] z-20 flex flex-col gap-[200px] px-[20px] pointer-events-none pt-[110vh] max-1024:pt-[105vh]" style="will-change:transform">
+<div class="gallery-item flex justify-start">
+<img alt="01" loading="lazy" width="380" height="380" decoding="async" data-nimg="1" class="w-[25%] max-1024:w-[35%] h-auto rounded-[12px] shadow-2xl" style="color:transparent" src="/images/home/scroll_banner_01.jpg"/>
+</div>
+<div class="gallery-item flex justify-end">
+<img alt="02" loading="lazy" width="500" height="350" decoding="async" data-nimg="1" class="w-[38%] max-1024:w-[48%] h-auto rounded-[12px] shadow-2xl" style="color:transparent" src="/images/home/scroll_banner_02.jpg"/>
+</div>
+<div class="gallery-item flex justify-start ml-[100px] max-1024:ml-0">
+<img alt="03" loading="lazy" width="500" height="350" decoding="async" data-nimg="1" class="w-[38%] max-1024:w-[48%] h-auto rounded-[12px] shadow-2xl" style="color:transparent" src="/images/home/scroll_banner_03.jpg"/>
+</div>
+<div class="gallery-item flex justify-end mr-[50px] max-1024:mr-0">
+<img alt="04" loading="lazy" width="380" height="380" decoding="async" data-nimg="1" class="w-[25%] max-1024:w-[35%] h-auto rounded-[12px] shadow-2xl" style="color:transparent" src="/images/home/scroll_banner_04.jpg"/>
+</div>
+<div class="gallery-item flex justify-start">
+<img alt="05" loading="lazy" width="500" height="350" decoding="async" data-nimg="1" class="w-[38%] max-1024:w-[48%] h-auto rounded-[12px] shadow-2xl" style="color:transparent" src="/images/home/scroll_banner_05.jpg"/>
+</div>
+<div class="gallery-item flex justify-end">
+<img alt="06" loading="lazy" width="380" height="500" decoding="async" data-nimg="1" class="w-[25%] max-1024:w-[35%] h-auto rounded-[12px] shadow-2xl" style="color:transparent" src="/images/home/scroll_banner_06.jpg"/>
+</div>
+<div class="gallery-item flex justify-start ml-[124px] max-1024:ml-0">
+<img alt="07" loading="lazy" width="500" height="320" decoding="async" data-nimg="1" class="w-[38%] max-1024:w-[48%] h-auto rounded-[12px] shadow-2xl" style="color:transparent" src="/images/home/scroll_banner_07.jpg"/>
+</div>
+</div>
+</div>
+</section>
+<section class="w-full h-[100svh] relative">
+<div class="absolute inset-0 w-full h-full" style="z-index:1;pointer-events:auto;opacity:0;transform:scale(1.08)">
+<img alt="파트너 상생" decoding="async" data-nimg="fill" class="w-full h-full object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" src="/images/home/impact/impactBanner_01.jpg"/>
+</div>
+<div class="absolute inset-0 w-full h-full" style="z-index:0;pointer-events:none;opacity:0;transform:scale(1.08)">
+<img alt="지역사회" loading="lazy" decoding="async" data-nimg="fill" class="w-full h-full object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" src="/images/home/impact/impactBanner_02.jpg"/>
+</div>
+<div class="absolute inset-0 w-full h-full" style="z-index:0;pointer-events:none;opacity:0;transform:scale(1.08)">
+<img alt="지속가능성" loading="lazy" decoding="async" data-nimg="fill" class="w-full h-full object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" src="/images/home/impact/impactBanner_03.jpg"/>
+</div>
+<div class="absolute inset-0 bg-black opacity-50 pointer-events-none" style="z-index:2">
+</div>
+<div class="absolute bottom-0 left-0 w-full h-[30%] pointer-events-none" style="z-index:3;background:rgba(0, 0, 0, 0.15);backdrop-filter:blur(50px);-webkit-backdrop-filter:blur(50px);mask-image:linear-gradient(to bottom, transparent 0%, black 55%);-webkit-mask-image:linear-gradient(to bottom, transparent 0%, black 55%)">
+</div>
+<div class="absolute top-0 left-[50%] -translate-x-1/2 w-full px-[68px] mx-auto h-[100svh] flex flex-col items-start justify-between max-1024:px-[20px]" style="z-index:4">
+<div class="py-[68px] w-full mt-[58px] max-1024:py-[24px] max-1024:mt-[0px]">
+<ul class="flex flex-col w-[348px] max-1024:flex-row max-1024:gap-[12px] max-1024:w-full max-1024:justify-center">
+<button style="color:rgba(255,255,255,0.4)" class="relative block w-full py-[12px] text-left transition-opacity max-1024:flex">
+<div class="absolute top-0 left-0 w-full h-[1px] bg-[rgba(255,255,255,0.2)]">
+</div>
+<h2 class="text-[20px] leading-[36px] font-[700] max-1024:leading-[20px] max-1024:text-[15px]">파트너 상생</h2>
+</button>
+<button style="color:rgba(255,255,255,0.4)" class="relative block w-full py-[12px] text-left transition-opacity max-1024:flex">
+<div class="absolute top-0 left-0 w-full h-[1px] bg-[rgba(255,255,255,0.2)]">
+</div>
+<h2 class="text-[20px] leading-[36px] font-[700] max-1024:leading-[20px] max-1024:text-[15px]">지역사회</h2>
+</button>
+<button style="color:rgba(255,255,255,0.4)" class="relative block w-full py-[12px] text-left transition-opacity max-1024:flex">
+<div class="absolute top-0 left-0 w-full h-[1px] bg-[rgba(255,255,255,0.2)]">
+</div>
+<h2 class="text-[20px] leading-[36px] font-[700] max-1024:leading-[20px] max-1024:text-[15px]">지속가능성</h2>
+</button>
+</ul>
+</div>
+<div class="py-[68px] w-full flex items-end justify-between max-1024:flex-col max-1024:gap-[24px] max-1024:items-start max-1024:py-[48px]">
+<div class="flex flex-col">
+<div class="overflow-hidden max-w-[900px]">
+<div class="overflow-hidden">
+<h2 class="text-[48px] leading-[64px] font-[800] text-[#fff] max-1024:text-[28px] max-1024:leading-[40px] max-1024:font-[600]" style="transform:translateY(100%)">패션&amp;뷰티 브랜드와 함께 성장하며</h2>
+</div>
+<div class="overflow-hidden">
+<h2 class="text-[48px] leading-[64px] font-[800] text-[#fff] max-1024:text-[28px] max-1024:leading-[40px] max-1024:font-[600]" style="transform:translateY(100%)">지속가능한 패션 생태계를 만듭니다.</h2>
+</div>
+</div>
+</div>
+<a href="/impact">
+<button class="hover:bg-[#E5E5E5] transition-all duration-300 bg-[#fff] flex items-center justify-between rounded-full py-[18px] px-[24px] gap-[24px] min-w-[186px] h-[56px] max-1024:min-w-[145px] max-1024:px-[24px] max-1024:py-[10px] max-1024:h-[56px]">
+<p class="text-[#000] text-[18px] leading-[24px] font-[600] max-1024:text-[16px]">Impact</p>
+<img alt="icon_arrow_down" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" class="" style="color:transparent" src="/images/icons/icon_arrowR_B.svg"/>
+</button>
+</a>
+</div>
+</div>
+</section>
+<section class="w-full pt-[160px] max-1024:pt-[60px] pb-[240px] max-1024:pb-[0px] flex flex-col gap-[48px] overflow-hidden max-1024:gap-[36px]">
+<div class="max-w-[1464px] mx-auto w-full flex items-end justify-between max-1600:w-full max-1600:px-[64px] max-1600:max-w-none max-1280:px-[56px] max-1024:px-[20px] max-1024:flex-col max-1024:items-start max-1024:gap-[24px]">
+<div class="flex flex-col">
+<h1 class="text-[#999] text-[48px] leading-[58px] font-[800] max-1024:text-[28px] max-1024:leading-[40px] max-1024:font-[700] false">무신사의</h1>
+<h1 class="&quot;text-[#000] text-[48px] leading-[58px] font-[800] max-1024:text-[28px] max-1024:leading-[40px] max-1024:font-[700] false">새로운 소식을 만나보세요.</h1>
+</div>
+<a href="/newsroom/press">
+<button class="bg-[#000] flex items-center justify-between rounded-full py-[18px] px-[24px] gap-[24px] min-w-[186px] h-[56px] hover:bg-[#505050] transition-colors duration-300 max-1024:min-w-[184px] max-1024:px-[24px] max-1024:py-[10px] max-1024:h-[56px]">
+<p class="text-[#fff] text-[18px] leading-[24px] font-[600] max-1024:text-[16px]">Newsroom</p>
+<img alt="arrow" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" style="color:transparent" src="/images/icons/icon_arrowR.svg"/>
+</button>
+</a>
+</div>
+<div class="w-full max-w-[1464px] mx-auto">
+<div class="swiper w-full !overflow-visible">
+<div class="swiper-wrapper">
+</div>
+</div>
+</div>
+<div class="mx-auto w-full flex gap-[12px] justify-start max-w-[1468px] max-1600:w-full max-1600:max-w-none max-1600:px-[68px] max-1280:px-[56px] max-1024:hidden" style="opacity:0;transform:translateY(30px)">
+<button disabled="" class="cursor-not-allowed">
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" fill="none" class="rotate-180">
+<rect x="1" y="1" width="54" height="54" rx="27" stroke="#eee" stroke-width="2" style="transition:stroke 0.3s ease">
+</rect>
+<path d="M28 18L38 28L28 38" stroke="#eee" stroke-width="2" style="transition:stroke 0.3s ease">
+</path>
+<path d="M18 28H38" stroke="#eee" stroke-width="2" style="transition:stroke 0.3s ease">
+</path>
+</svg>
+</button>
+<button class="cursor-pointer">
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" fill="none">
+<rect x="1" y="1" width="54" height="54" rx="27" stroke="black" stroke-width="2" style="transition:stroke 0.3s ease">
+</rect>
+<path d="M28 18L38 28L28 38" stroke="black" stroke-width="2" style="transition:stroke 0.3s ease">
+</path>
+<path d="M18 28H38" stroke="black" stroke-width="2" style="transition:stroke 0.3s ease">
+</path>
+</svg>
+</button>
+</div>
+</section>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body, #mapDiv {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="mapDiv"></div>
+      
+    <script nonce="tld7XbfPKCKAJoDWpXx5EQ">
+      function onEmbedLoad() {
+        initEmbed([null,null,null,null,null,[[[2,"spotlit",null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,11,null,[null,null,null,null,null,null,null,null,null,null,null,null,null,1]]]],null,null,[[null,null,null,null,null,null,null,null,null,null,null,null,null,[[["3847381716687110609","2323525124593130892"],"/g/11jz7sbdpf",null,[371174374,1274863576],null,null,null,1,null,null,null,null,null,null,"gcid:geocoded_address"],0,0,null,null,0,null,0,0]]]],null,["en_US","KR"],[null,null,null,"/maps/api/js/ApplicationService.GetEntityDetails","/maps/embed/upgrade204",null,"/maps/embed/record204"],null,null,null,null,null,null,null,null,"oczaatmNJPbZ1e8PwJCtuQs",null,null,null,[[[3181.482278196792,127.4863576,37.1174374],[0,0,0],null,13.10000038146973],null,0,[["0x3564a5497a77c1d1:0x203ed1ca4e119d8c","166 Noseong-ro, Iljuk-myeon, Anseong-si, Gyeonggi-do",[37.1174374,127.4863576]],"166 Noseong-ro, Iljuk-myeon",["Anseong-si, Gyeonggi-do"],null,null,null,null,null,null,null,null,null,null,"166 Noseong-ro, Iljuk-myeon, Anseong-si, Gyeonggi-do",null,null,null,null,null,null,null,null,null,null,1,null,null,"ChIJ0cF3ekmlZDURjJ0RTsrRPiA",null,null,"2ahUKEwiZ4rLnkc-XAxX2bPUHHUBIK7cQ8BcoAHoECAAQAg",null,null,null,null,null,null,null,["2ahUKEwiZ4rLnkc-XAxX2bPUHHUBIK7cQqtMBKAZ6BAgAEAk",["8Q994F8P+XG"],["4F8P+XG Anseong-si, Gyeonggi-do"],2]]],null,null,null,0,null,null,null,null,null,null,[1]]);
+      }
+      function onApiLoad() {
+        var embed = document.createElement('script');
+        embed.src = "https://maps.gstatic.com/maps-api-v3/embed/js/66/11a/init_embed.js";
+        document.body.appendChild(embed);
+      }
+    </script>
+    <link rel="preload" href="https://maps.gstatic.com/maps-api-v3/embed/js/66/11a/init_embed.js" nonce="tld7XbfPKCKAJoDWpXx5EQ" as="script" />
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCmL18misQw9KdwqGaw3zHkitj8vG6QF2Y&amp;paint_origin=&amp;libraries=geometry,search&amp;v=weekly&amp;loading=async&amp;language=en_US&amp;region=KR&amp;callback=onApiLoad" nonce="tld7XbfPKCKAJoDWpXx5EQ" async defer></script>
+  </body>
+</html>

@@ -1,0 +1,119 @@
+self.__BUILD_MANIFEST = {
+  "/404": [
+    "static/chunks/1l2dzisvvv8-_.js"
+  ],
+  "/[locale]": [
+    "static/chunks/3vnjz-qv027qj.js"
+  ],
+  "/[locale]/[page]": [
+    "static/chunks/0l_wk3lxneepw.js"
+  ],
+  "/[locale]/a/change-password": [
+    "static/chunks/02gt__9w_h7qv.js"
+  ],
+  "/[locale]/a/delete-account": [
+    "static/chunks/1v_0g4fpp5hnr.js"
+  ],
+  "/[locale]/a/delete-account/finish": [
+    "static/chunks/03h7vm23vbi4j.js"
+  ],
+  "/[locale]/a/login": [
+    "static/chunks/1sd3zwcrkw0o1.js"
+  ],
+  "/[locale]/a/login/lock": [
+    "static/chunks/1jkn4j8j0lj1x.js"
+  ],
+  "/[locale]/a/mypage": [
+    "static/chunks/1n3uc2mzy0rjh.js"
+  ],
+  "/[locale]/a/mypage/settings": [
+    "static/chunks/0o4l4n6bfmxbn.js"
+  ],
+  "/[locale]/a/reset-password": [
+    "static/chunks/2yz_x951ety0b.js"
+  ],
+  "/[locale]/a/signup": [
+    "static/chunks/410z_vy5qotkw.js"
+  ],
+  "/[locale]/o/[openingId]": [
+    "static/chunks/1mmxrpzk2ncyi.js"
+  ],
+  "/[locale]/o/[openingId]/finish": [
+    "static/chunks/3jcq7c9acyr8a.js"
+  ],
+  "/[locale]/preview": [
+    "static/chunks/3a0p-7ck36m0c.js"
+  ],
+  "/[locale]/r/[openingId]": [
+    "static/chunks/2a967qon26w1u.js"
+  ],
+  "/[locale]/r/[openingId]/apply": [
+    "static/chunks/31asj4y0hh4p6.js"
+  ],
+  "/[locale]/r/[openingId]/finish": [
+    "static/chunks/0p3skiy6m6op4.js"
+  ],
+  "/[locale]/r/openings": [
+    "static/chunks/11pb7iewx5w5d.js"
+  ],
+  "/[locale]/r/recommend/[linkKey]": [
+    "static/chunks/0o5xgstsy-q3h.js"
+  ],
+  "/[locale]/r/recommend/[linkKey]/finish": [
+    "static/chunks/1nue2y93ixndj.js"
+  ],
+  "/[locale]/r/recommend/[linkKey]/status": [
+    "static/chunks/0ycdym2c9bbih.js"
+  ],
+  "/_error": [
+    "static/chunks/09i3jvfaostln.js"
+  ],
+  "/robots.txt": [
+    "static/chunks/2thieh2akgjmm.js"
+  ],
+  "/sitemap.xml": [
+    "static/chunks/401_xt3dpfbuo.js"
+  ],
+  "__rewrites": {
+    "afterFiles": [
+      {
+        "source": "/:locale/o/:openingId/apply/new",
+        "destination": "/:locale/o/:openingId/apply"
+      },
+      {
+        "source": "/:locale/a/mypage/applications/:applicationId/edit/new",
+        "destination": "/:locale/a/mypage/applications/:applicationId/edit"
+      }
+    ],
+    "beforeFiles": [],
+    "fallback": []
+  },
+  "sortedPages": [
+    "/404",
+    "/_app",
+    "/_error",
+    "/robots.txt",
+    "/sitemap.xml",
+    "/[locale]",
+    "/[locale]/a/change-password",
+    "/[locale]/a/delete-account",
+    "/[locale]/a/delete-account/finish",
+    "/[locale]/a/login",
+    "/[locale]/a/login/lock",
+    "/[locale]/a/mypage",
+    "/[locale]/a/mypage/settings",
+    "/[locale]/a/reset-password",
+    "/[locale]/a/signup",
+    "/[locale]/o/[openingId]",
+    "/[locale]/o/[openingId]/finish",
+    "/[locale]/preview",
+    "/[locale]/r/openings",
+    "/[locale]/r/recommend/[linkKey]",
+    "/[locale]/r/recommend/[linkKey]/finish",
+    "/[locale]/r/recommend/[linkKey]/status",
+    "/[locale]/r/[openingId]",
+    "/[locale]/r/[openingId]/apply",
+    "/[locale]/r/[openingId]/finish",
+    "/[locale]/[page]"
+  ]
+};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()

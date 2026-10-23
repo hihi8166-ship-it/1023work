@@ -1,0 +1,15 @@
+/* Interactions added to the preserved recruiting-page layout. */
+html{scroll-behavior:smooth}
+[data-testid="공고_아이템"][hidden]{display:none!important}
+.career-overlay{position:fixed;inset:0;z-index:10000;background:#fff;overflow:auto;padding:24px;box-sizing:border-box;font-family:Pretendard,sans-serif}
+.career-overlay>button{display:block;margin:0 0 24px auto;background:none;border:0;font-size:28px;cursor:pointer}
+.career-overlay nav{display:flex;flex-direction:column;gap:24px;font-size:20px}
+.career-overlay a{color:inherit;text-decoration:none}
+.career-overlay [class*="block-filters__Container"]{display:flex!important;width:100%!important}
+.career-popover{position:absolute;z-index:1000;background:#fff;border:1px solid #eee;border-radius:8px;padding:8px;box-shadow:0 8px 30px #0001;min-width:160px}
+.career-popover a{display:block;padding:10px 12px;color:#222;text-decoration:none;white-space:nowrap;font-size:14px}
+.career-popover a:hover{background:#f6f6f6}
+.career-empty{padding:48px 0;text-align:center;color:#777}
+[class*="toggle__ToggleBlockTitleContainer"],[class*="collapse__Header"]{cursor:pointer}
+[class*="toggle__ToggleContentsContainer"]{transition:height .25s ease}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}

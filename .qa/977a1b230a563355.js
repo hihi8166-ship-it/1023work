@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,19570,t=>{"use strict";var e=t.i(9717);let a=async()=>{let t=await e.musinsaClient.get("/impact-reports");return t?.data};t.s(["getImpactReport",0,a])}]);

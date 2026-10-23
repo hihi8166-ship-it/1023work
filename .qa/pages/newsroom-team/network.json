@@ -1,0 +1,508 @@
+[
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa",
+    "type": "Document",
+    "status": 200,
+    "mime": "text/html",
+    "file": "resource-0"
+  },
+  {
+    "url": "https://corp.musinsa.com/_next/static/chunks/d938a06b0c2dc349.css",
+    "type": "Stylesheet",
+    "status": 200,
+    "mime": "text/css",
+    "file": "resource-1"
+  },
+  {
+    "url": "https://corp.musinsa.com/_next/static/chunks/46775476403f7ee1.js",
+    "type": "Script",
+    "status": 200,
+    "mime": "application/javascript",
+    "file": "resource-2"
+  },
+  {
+    "url": "https://corp.musinsa.com/_next/static/media/797e433ab948586e-s.p.29207c2f.woff2",
+    "type": "Font",
+    "status": 200,
+    "mime": "font/woff2"
+  },
+  {
+    "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+    "type": "Script",
+    "status": 200,
+    "mime": "text/javascript",
+    "file": "resource-4"
+  },
+  {
+    "url": "https://corp.musinsa.com/_next/static/chunks/ff1a16fafef87110.js",
+    "type": "Script",
+    "status": 200,
+    "mime": "application/javascript",
+    "file": "resource-5"
+  },
+  {
+    "url": "https://corp.musinsa.com/_next/static/chunks/769625eaf48f1408.js",
+    "type": "Script",
+    "status": 200,
+    "mime": "application/javascript",
+    "file": "resource-6"
+  },
+  {
+    "url": "https://corp.musinsa.com/_next/static/chunks/d2be314c3ece3fbe.js",
+    "type": "Script",
+    "status": 200,
+    "mime": "application/javascript",
+    "file": "resource-7"
+  },
+  {
+    "url": "https://corp.musinsa.com/_next/static/chunks/aee6c7720838f8a2.js",
+    "type": "Script",
+    "status": 200,
+    "mime": "application/javascript",
+    "file": "resource-8"
+  },
+  {
+    "url": "https://corp.musinsa.com/_next/static/chunks/48b1211855e63cd6.js",
+    "type": "Script",
+    "status": 200,
+    "mime": "application/javascript",
+    "file": "resource-9"
+  },
+  {
+    "url": "https://corp.musinsa.com/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2",
+    "type": "Font",
+    "status": 200,
+    "mime": "font/woff2"
+  },
+  {
+    "url": "https://corp.musinsa.com/_next/static/chunks/0fa7e9dc30798e79.js",
+    "type": "Script",
+    "status": 200,
+    "mime": "application/javascript",
+    "file": "resource-11"
+  },
+  {
+    "url": "https://corp.musinsa.com/_next/static/chunks/turbopack-90a2bfc846550df5.js",
+    "type": "Script",
+    "status": 200,
+    "mime": "application/javascript",
+    "file": "resource-12"
+  },
+  {
+    "url": "https://corp.musinsa.com/_next/static/chunks/da5bb0cb802fa7be.js",
+    "type": "Script",
+    "status": 200,
+    "mime": "application/javascript",
+    "file": "resource-13"
+  },
+  {
+    "url": "https://corp.musinsa.com/_next/static/chunks/257cb6013a9e646f.js",
+    "type": "Script",
+    "status": 200,
+    "mime": "application/javascript",
+    "file": "resource-14"
+  },
+  {
+    "url": "https://corp.musinsa.com/_next/static/chunks/3cb03a9364595c64.js",
+    "type": "Script",
+    "status": 200,
+    "mime": "application/javascript",
+    "file": "resource-15"
+  },
+  {
+    "url": "https://corp.musinsa.com/_next/static/chunks/52c266ad6c0e75a6.js",
+    "type": "Script",
+    "status": 200,
+    "mime": "application/javascript",
+    "file": "resource-16"
+  },
+  {
+    "url": "https://corp.musinsa.com/_next/static/chunks/58ef6ad8d5349a20.js",
+    "type": "Script",
+    "status": 200,
+    "mime": "application/javascript",
+    "file": "resource-17"
+  },
+  {
+    "url": "https://corp.musinsa.com/_next/static/chunks/2df9609b5cd9da1d.js",
+    "type": "Script",
+    "status": 200,
+    "mime": "application/javascript",
+    "file": "resource-18"
+  },
+  {
+    "url": "https://corp.musinsa.com/_next/static/chunks/c191e2541071b09a.js",
+    "type": "Script",
+    "status": 200,
+    "mime": "application/javascript",
+    "file": "resource-19"
+  },
+  {
+    "url": "https://corp.musinsa.com/images/common/musinsa_logo_b.svg",
+    "type": "Image",
+    "status": 200,
+    "mime": "image/svg+xml"
+  },
+  {
+    "url": "https://corp.musinsa.com/images/common/footer_logo.svg",
+    "type": "Image",
+    "status": 200,
+    "mime": "image/svg+xml"
+  },
+  {
+    "url": "https://corp.musinsa.com/images/icons/icon_golink.svg",
+    "type": "Image",
+    "status": 200,
+    "mime": "image/svg+xml"
+  },
+  {
+    "url": "https://corp.musinsa.com/images/icons/icon_search.svg",
+    "type": "Image",
+    "status": 200,
+    "mime": "image/svg+xml"
+  },
+  {
+    "url": "https://prd-new-api.corp.musinsa.com/api/public/team-hashtag-filters/ko",
+    "type": "XHR",
+    "status": 200,
+    "mime": "application/json",
+    "file": "resource-24"
+  },
+  {
+    "url": "https://prd-new-api.corp.musinsa.com/api/public/team-musinsas?page=1&limit=10&lang=ko",
+    "type": "XHR",
+    "status": 200,
+    "mime": "application/json",
+    "file": "resource-25"
+  },
+  {
+    "url": "https://d3a9ls0n8d3jx7.cloudfront.net/object/images/team-musinsas/88c0ab4d-c3c5-4cbe-a992-028ab4e36f51.jpg",
+    "type": "Image",
+    "status": 200,
+    "mime": "image/jpeg"
+  },
+  {
+    "url": "https://d3a9ls0n8d3jx7.cloudfront.net/object/images/team-musinsas/fec3de44-eb5b-49bd-bca8-954850c0ae9b.jpg",
+    "type": "Image",
+    "status": 200,
+    "mime": "image/jpeg"
+  },
+  {
+    "url": "https://d3a9ls0n8d3jx7.cloudfront.net/object/images/team-musinsas/04445792-f439-4ac7-8eb7-4b9dce941d15.jpg",
+    "type": "Image",
+    "status": 200,
+    "mime": "image/jpeg"
+  },
+  {
+    "url": "https://d3a9ls0n8d3jx7.cloudfront.net/object/images/team-musinsas/6949e1eb-d53c-41de-9c35-4ed2c246b409.jpg",
+    "type": "Image",
+    "status": 200,
+    "mime": "image/jpeg"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/press?_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/images/icons/icon_language.svg",
+    "type": "Image",
+    "status": 200,
+    "mime": "image/svg+xml"
+  },
+  {
+    "url": "https://corp.musinsa.com/images/icons/icon_pagination_db.svg",
+    "type": "Image",
+    "status": 200,
+    "mime": "image/svg+xml"
+  },
+  {
+    "url": "https://corp.musinsa.com/images/icons/icon_pagination.svg",
+    "type": "Image",
+    "status": 200,
+    "mime": "image/svg+xml"
+  },
+  {
+    "url": "https://corp.musinsa.com/impact?_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/business?_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/company?_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://d3a9ls0n8d3jx7.cloudfront.net/object/images/team-musinsas/9491a3bb-86cc-401c-bc05-6abb1a8afff4.jpg",
+    "type": "Image",
+    "status": 200,
+    "mime": "image/jpeg"
+  },
+  {
+    "url": "https://d3a9ls0n8d3jx7.cloudfront.net/object/images/team-musinsas/965b3382-1725-478b-a9e2-1c92c878b5d4.png",
+    "type": "Image",
+    "status": 200,
+    "mime": "image/png"
+  },
+  {
+    "url": "https://d3a9ls0n8d3jx7.cloudfront.net/object/images/team-musinsas/4e2ce6a7-40fe-4956-82cd-794b9ee9faaa.jpg",
+    "type": "Image",
+    "status": 200,
+    "mime": "image/jpeg"
+  },
+  {
+    "url": "https://d3a9ls0n8d3jx7.cloudfront.net/object/images/team-musinsas/59bb6db2-45d3-4b78-ac3d-dff73c8aa773.jpg",
+    "type": "Image",
+    "status": 200,
+    "mime": "image/jpeg"
+  },
+  {
+    "url": "https://d3a9ls0n8d3jx7.cloudfront.net/object/images/team-musinsas/e9a3bf7f-8a1d-47c2-b7e5-e8e99494b7f7.jpg",
+    "type": "Image",
+    "status": 200,
+    "mime": "image/jpeg"
+  },
+  {
+    "url": "https://corp.musinsa.com/fonts/PretendardVariable.woff2",
+    "type": "Font",
+    "status": 200,
+    "mime": "font/woff2"
+  },
+  {
+    "url": "https://d3a9ls0n8d3jx7.cloudfront.net/object/images/team-musinsas/05c2d2f9-8b5b-4352-bc7d-2408539920b8.jpg",
+    "type": "Image",
+    "status": 200,
+    "mime": "image/jpeg"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/49?_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/69?_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/55?_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/74?_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/cdn-cgi/rum?",
+    "type": "XHR",
+    "status": 204,
+    "mime": "text/plain"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/75?_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/49?_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/ko?_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/76?_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/55?_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/69?_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/74?_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/75?_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/impact?_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/press?_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/76?_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/business?_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/ko?_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/company?_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa?page=5&_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa?page=4&_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa?page=3&_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa?page=2&_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa?_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/68?_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/67?_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/47?_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/50?_rsc=1bx5b",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa?page=5&_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa?page=4&_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa?page=2&_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa?page=3&_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa?_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/67?_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/68?_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/50?_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  },
+  {
+    "url": "https://corp.musinsa.com/newsroom/teammusinsa/detail/47?_rsc=7k0da",
+    "type": "Fetch",
+    "status": 200,
+    "mime": "text/x-component"
+  }
+]

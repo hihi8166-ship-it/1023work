@@ -1,0 +1,30 @@
+{
+  "navigation_Company": true,
+  "navigation_Business": true,
+  "navigation_Impact": true,
+  "navigation_Newsroom": true,
+  "career_menu_local": true,
+  "pagination": true,
+  "hashtag_filter": true,
+  "business_tab": true,
+  "report_anchor": true,
+  "faq_open": true,
+  "mobile_/": true,
+  "mobile_/company/": true,
+  "mobile_/business/": true,
+  "mobile_/impact/": true,
+  "mobile_/newsroom/press/": true,
+  "mobile_/career/": true,
+  "mobile_/career/faq/": true,
+  "mobile_/career/jobs/240841/": true,
+  "mobile_navigation": true,
+  "career_mobile_menu": true,
+  "career_mobile_navigation": true,
+  "javascript_syntax": [
+    "js/main.js",
+    "js/career.js",
+    "js/api-cache.js",
+    "js/collections.js"
+  ],
+  "browser_errors": []
+}

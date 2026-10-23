@@ -1,0 +1,59 @@
+{
+  "newsroom_inputs": [
+    {
+      "type": "text",
+      "placeholder": "보도자료 검색"
+    }
+  ],
+  "newsroom_buttons": [
+    {
+      "text": "",
+      "label": null
+    },
+    {
+      "text": "전체",
+      "label": null
+    },
+    {
+      "text": "#글로벌",
+      "label": null
+    },
+    {
+      "text": "#무신사카피스탠다드",
+      "label": null
+    },
+    {
+      "text": "#무신사카피스토어",
+      "label": null
+    },
+    {
+      "text": "",
+      "label": null
+    }
+  ],
+  "search_result": "Company\nBusiness\nImpact\nNewsroom\nCareer\nKO\n보도자료\n\n전체\n\n#글로벌\n\n#무신사카피스탠다드\n\n#무신사카피스토어\n\n7건의 소식이 있습니다.\n\n무신사카피, 라이즈 은석과 함께한 아디다스 무신사카피 에디션 화보 공개··· 온·오프라인 동시 판매\n\n2026.10.16\n\n무신사카피에디션\n\n29CM, 로우 프로파일 스니커즈 흥행 이끈다··· 아디다스 ‘도쿄’ 29에디션 단독 기획 발매\n\n2026.04.21\n\n무신사카피, 아디다스 아웃도어 온라인 유통 채널 최초 공개··· 테렉스 ‘아그라빅’ 메가 쇼케이스 개최\n\n2026.03.16\n\n무신사카피, 아디다스와 ‘쓰리 스트라입스’ 캠페인 진행… “트렌디한 3선 패턴 아이템 다 모았다”\n\n2024.07.30\n\n한정판 플랫폼 ‘솔드아웃’, 구매자 1년만에 88% 증가했다··· 거래량 ‘톱 10’ 과반은 나이키·아디다스\n\n2024.07.26\n\n29CM, 글로벌 스포츠 브랜드 ‘아디다스’ 공식 입점… 스니커즈 카테고리 강화 나선다\n\n2024.07.01\n\n솔드아웃, 아디다스와 함께 ‘헬로, 슈퍼스타’ 특별 전시 진행\n\n2022.07.22\n\n1\nYouTube ↗\nInstagram ↗\nX ↗\nTikTok ↗\nTech Blog↗\n입점 문의 ↗\n광고/제휴 문의 ↗\n안전거래센터 ↗\n고객센터\n1544-7199\ncs@musinsa.com\n운영시간\n평일 09:00 - 18:00 (점심시간 12:00 - 13:00)\n© 2026 MUSINSACOPY Inc.\nAll rights reserved.",
+  "api_queries": [
+    "blob:http://127.0.0.1:8080/1c41726f-49fd-42d7-a049-419bd049585a",
+    "blob:http://127.0.0.1:8080/808a4d19-1086-4321-bd67-8466396cb98e"
+  ],
+  "career_filter": {
+    "before": 101,
+    "after": 5
+  },
+  "faq": {
+    "expanded": "true",
+    "height": 236
+  },
+  "video": {
+    "video": "",
+    "ready": 4
+  },
+  "business_buttons": [
+    "온라인",
+    "오프라인",
+    "글로벌",
+    "브랜드",
+    "인프라"
+  ],
+  "errors": []
+}

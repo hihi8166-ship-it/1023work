@@ -1,0 +1,88 @@
+{
+  "url": "https://www.musinsacareers.com/ko/faq",
+  "title": "무신사 채용",
+  "text": "무신사\n회사 홈페이지\n무신사 소식\n기술 이야기\n팀 소개\n복리후생\nFAQ\n채용 중인 공고\n한국어\n\n자주 묻는 질문\n\n개별 문의\n\nQ. 지원한 포지션 관련 문의가 있으신가요?\n\n면접 확인서 요청\n\nQ. 면접 확인서 발급이 필요하신가요?\n\n지원 관련\n\nQ. 이력서 양식이 있나요?\n\nQ. 다수 포지션, 여러 계열사(포지션)로 중복지원도 가능한가요?\n\nQ. 제출 완료한 지원서를 수정할 수 있나요?\n\nQ.  자격 요건에 명시된 경력 조건이 미달 시 지원 불가한가요?\n\nQ. 제가 지원한 서류의 진행 상황을 알 수 있을까요?\n\nQ. 불합격인 경우에도 결과 안내를 받을 수 있나요?\n\nQ. 전형 단계별 피드백을 받을 수 있나요?\n\nQ. 전에 인터뷰를 진행했었는데, 새로운 지원에도 영향을 미치나요?\n\nQ. 포지션이 마감된 것 같은데, 이메일로 접수가 가능할까요?\n\nQ. 외국인도 지원이 가능한가요?\n\n전형 진행 관련\n\nQ. 과제 전형은 어떤 방식으로 진행되나요?\n\nQ. 인터뷰 진행 시 복장 규정이 있나요?\n\nQ. 비대면 인터뷰로 변경할 수 있을까요?\n\nQ. 사전에 전달 받을 수 있는 인터뷰 상세사항이 있을까요?\n\n기타\n\nQ. 특정 포지션이 재오픈 되었을 때 알림을 받을 수 있을까요?\n\nQ. 인재풀로 서류 보관 요청이 가능할까요? \n\nQ. 인턴/계약직 포지션은 정규직 전환이 가능한가요?\n\nQ. 외부 채용 플랫폼에 기재된 내용과 다른데, 무엇이 맞을까요?\n\nQ. 수습 제도는 어떻게 운영되고 있나요?\n\nQ. 어떤 복지들이 있나요?\n\nQ. 공식적인 채용 공고는 어디에서 볼 수 있나요?\n\n무신사\n\n© 2012.MUSINSA Inc.all rights reserved.\n\n무신사 채용 개인정보처리방침\nmade with Greeting",
+  "links": [
+    {
+      "text": "무신사",
+      "href": "https://www.musinsacareers.com/ko"
+    },
+    {
+      "text": "회사 홈페이지",
+      "href": "https://corp.musinsa.com/ko/"
+    },
+    {
+      "text": "복리후생",
+      "href": "https://www.musinsacareers.com/ko/benefit"
+    },
+    {
+      "text": "FAQ",
+      "href": "https://www.musinsacareers.com/ko/faq"
+    },
+    {
+      "text": "채용 중인 공고",
+      "href": "https://www.musinsacareers.com/ko/home#f9221335-0b3f-4011-b3ac-1ed1a0e34984"
+    },
+    {
+      "text": "무신사 채용 개인정보처리방침",
+      "href": "https://member.one.musinsa.com/agreement/recruit-privacy-policy"
+    },
+    {
+      "text": "Greeting",
+      "href": "https://www.greetinghr.com/?utm_source=career_page&utm_medium=1455"
+    }
+  ],
+  "inputs": [],
+  "buttons": [
+    {
+      "text": "",
+      "name": "",
+      "testid": "모바일_메뉴_버튼"
+    },
+    {
+      "text": "회사 홈페이지",
+      "name": "회사 홈페이지",
+      "testid": null
+    },
+    {
+      "text": "무신사 소식",
+      "name": "무신사 소식",
+      "testid": null
+    },
+    {
+      "text": "기술 이야기",
+      "name": "기술 이야기",
+      "testid": null
+    },
+    {
+      "text": "팀 소개",
+      "name": "팀 소개",
+      "testid": null
+    },
+    {
+      "text": "복리후생",
+      "name": "복리후생",
+      "testid": null
+    },
+    {
+      "text": "FAQ",
+      "name": "FAQ",
+      "testid": null
+    },
+    {
+      "text": "채용 중인 공고",
+      "name": "채용 중인 공고",
+      "testid": null
+    },
+    {
+      "text": "한국어",
+      "name": "한국어",
+      "testid": null
+    },
+    {
+      "text": "",
+      "name": "",
+      "testid": null
+    }
+  ]
+}
