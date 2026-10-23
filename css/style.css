@@ -5,15 +5,27 @@ img[src$="musinsa_logo_b.svg"] {
   max-width: none;
   object-fit: contain;
 }
-a[href="/ko"]:has(> svg) { position: relative; display: flex; align-items: center; }
-a[href="/ko"] > svg { visibility: hidden; width: 177px; height: 18px; }
+a[href="/ko"]:has(> svg) {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+a[href="/ko"] > svg {
+  visibility: hidden;
+  width: 177px;
+  height: 18px;
+}
 a[href="/ko"]:has(> svg)::after {
   content: "";
   position: absolute;
   width: 177px;
   height: 18px;
-  background: url("../assets/images/common/musinsa_logo_b.svg") center / contain no-repeat;
+  background: url("../assets/images/common/musinsa_logo_b.svg") center / contain
+    no-repeat;
 }
 @media (min-width: 1025px) and (max-width: 1279px) {
-  img[src$="musinsa_logo_b.svg"] { width: 140px; height: 14.24px; }
+  img[src$="musinsa_logo_b.svg"] {
+    width: 140px;
+    height: 14.24px;
+  }
 }
